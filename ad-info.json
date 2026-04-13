@@ -1,7 +1,7 @@
 [
     {
         "ad_name": "Love Watch",
-        "ad_image": "ad.jpg",
+        "ad_image": "https://github.com/yangc5626-a11y/love_watch_console/raw/main/ad.jpg",
         "update_time": 1776068746899,
         "target_url": "https://www.csdn.net/",
         "is_active": true,
