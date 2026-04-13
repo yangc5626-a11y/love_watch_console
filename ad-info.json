@@ -1,0 +1,13 @@
+[
+    {
+        "ad_name": "Love Watch",
+        "ad_image": "ad.jpg",
+        "update_time": 1776068746899,
+        "target_url": "https://www.csdn.net/",
+        "is_active": true,
+        "display_time_range": [
+            0,
+            24
+        ]
+    }
+]
