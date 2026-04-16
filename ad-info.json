@@ -4,7 +4,7 @@
         "ad_image": "https://scpic.chinaz.net/files/default/imgs/2026-04-08/20260408180019041963_s.png",
         "update_time": 1776068746899,
         "target_url": "https://www.csdn.net/",
-        "is_active": true,
+        "is_active": false,
         "display_time_range": [
             0,
             24

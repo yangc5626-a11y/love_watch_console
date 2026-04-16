@@ -1,5 +1,15 @@
 [
     {
+        "version": "1.1.0",
+        "update_time": 1776303331028,
+        "download_url": "https://transfiles.ru/zgd2s",
+        "description": [
+            "1、增加更新记录功能",
+            "2、增加新的漫画源，可在我的，重新启用默认源",
+            "3、修复已知问题"
+        ]
+    },
+    {
         "version": "1.0.0",
         "update_time": 1776068746899,
         "download_url": "https://github.com/yangc5626-a11y/love_watch_console/releases/download/untagged-e0d7328c00b97e4a4e48/loveWatch_20260413_124807.apk",
