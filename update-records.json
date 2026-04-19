@@ -1,5 +1,15 @@
 [
     {
+        "version": "1.2.0",
+        "update_time": 1776596044790,
+        "download_url": "https://transfiles.ru/77nhx",
+        "description": [
+            "1、增加源可用性检查功能",
+            "2、增加新的视频源，可在我的，重新启用默认源",
+            "3、修复已知问题"
+        ]
+    },
+    {
         "version": "1.1.0",
         "update_time": 1776303331028,
         "download_url": "https://transfiles.ru/zgd2s",
