@@ -1,4 +1,14 @@
 [ 
+       {
+        "version": "3.1.0",
+        "update_time": 1782558359457,
+        "download_url": "https://transfiles.ru/nzyo3",
+        "description": [
+           "1、解决存在的已知问题，提升稳定性",
+           "2、优化AI写源功能",
+           "3、解决某些小说网站无法正常加载目录的问题"
+        ]
+      },
       {
         "version": "3.0.0",
         "update_time": 1781925836204,
