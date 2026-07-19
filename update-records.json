@@ -1,5 +1,14 @@
 [ 
        {
+        "version": "4.2.0",
+        "update_time": 1784451505617,
+        "download_url": "https://transfiles.ru/pajm7",
+        "description": [
+           "1、优化默认源，请务必重新激活默认源",
+           "2、增加系统字体 、小说正文字体的设置"
+        ]
+       },
+       {
         "version": "4.1.0",
         "update_time": 1784286638860,
         "download_url": "https://transfiles.ru/36iap",
