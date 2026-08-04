@@ -1,4 +1,13 @@
 [ 
+     {
+        "version": "4.4.0",
+        "update_time": 1785804383259,
+        "download_url": "https://transfiles.ru/czciu",
+        "description": [
+           "1、解决存在的已知问题，提升稳定性",
+           "2、重构仿真阅读功能"
+        ]
+       },
         {
         "version": "4.3.0",
         "update_time": 1785390741726,
