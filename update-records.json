@@ -1,4 +1,13 @@
 [ 
+        {
+        "version": "5.1.0",
+        "update_time": 1787055439747,
+        "download_url": "https://transfiles.ru/0fpfb",
+        "description": [
+           "1、处理默认源网站失效问题（需要重启启用默认源）",
+           "2、优化我要自律功能"
+        ]
+       },
       {
         "version": "5.0.0",
         "update_time": 1786686904322,
