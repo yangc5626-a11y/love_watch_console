@@ -1,130 +1,141 @@
-[ 
-          {
+[
+    {
+        "version": "5.2.0",
+        "update_time": 1792986729365,
+        "download_url": "https://transfiles.ru/0xnbl",
+        "description": [
+            "1、重构AI写源功能，写源更加简单",
+            "2、处理漫画阅读的已知问题",
+            "3、已订阅作品封面支持使用本地图片",
+            "4、调整app内的内置源"
+        ]
+    },
+    {
         "version": "5.1.1",
         "update_time": 1787376865414,
         "download_url": "https://transfiles.ru/10e77",
         "description": [
-           "1、增加新的小说源（需要重启启用默认源）"
+            "1、增加新的小说源（需要重启启用默认源）"
         ]
-       },
-        {
+    },
+    {
         "version": "5.1.0",
         "update_time": 1787055439747,
         "download_url": "https://transfiles.ru/0fpfb",
         "description": [
-           "1、处理默认源网站失效问题（需要重启启用默认源）",
-           "2、优化我要自律功能"
+            "1、处理默认源网站失效问题（需要重启启用默认源）",
+            "2、优化我要自律功能"
         ]
-       },
-      {
+    },
+    {
         "version": "5.0.0",
         "update_time": 1786686904322,
         "download_url": "https://transfiles.ru/4zo0y",
         "description": [
-           "1、增加使用统计功能（小说、漫画、视频）",
-           "2、增加我要自律功能"
+            "1、增加使用统计功能（小说、漫画、视频）",
+            "2、增加我要自律功能"
         ]
-       },
-     {
+    },
+    {
         "version": "4.4.0",
         "update_time": 1785804383259,
         "download_url": "https://transfiles.ru/czciu",
         "description": [
-           "1、解决存在的已知问题，提升稳定性",
-           "2、重构仿真阅读功能"
+            "1、解决存在的已知问题，提升稳定性",
+            "2、重构仿真阅读功能"
         ]
-       },
-        {
+    },
+    {
         "version": "4.3.0",
         "update_time": 1785390741726,
         "download_url": "https://transfiles.ru/rqlut",
         "description": [
-           "1、优化默认源，请务必重新激活默认源",
-           "2、优化视频播放界面及功能"
+            "1、优化默认源，请务必重新激活默认源",
+            "2、优化视频播放界面及功能"
         ]
-       },
-       {
+    },
+    {
         "version": "4.2.0",
         "update_time": 1784451505617,
         "download_url": "https://transfiles.ru/pajm7",
         "description": [
-           "1、优化默认源，请务必重新激活默认源",
-           "2、增加系统字体 、小说正文字体的设置"
+            "1、优化默认源，请务必重新激活默认源",
+            "2、增加系统字体 、小说正文字体的设置"
         ]
-       },
-       {
+    },
+    {
         "version": "4.1.0",
         "update_time": 1784286638860,
         "download_url": "https://transfiles.ru/36iap",
         "description": [
-           "1、已知问题优化"
+            "1、已知问题优化"
         ]
-      },
-       {
+    },
+    {
         "version": "4.0.0",
         "update_time": 1783297141415,
         "download_url": "https://transfiles.ru/svwaj",
         "description": [
-           "1、优化内容搜索，增加错误重试",
-           "2、优化订阅监听",
-           "3、更换视频播放器，优化app包大小"
+            "1、优化内容搜索，增加错误重试",
+            "2、优化订阅监听",
+            "3、更换视频播放器，优化app包大小"
         ]
-      },
-       {
+    },
+    {
         "version": "3.1.0",
         "update_time": 1782558359457,
         "download_url": "https://transfiles.ru/nzyo3",
         "description": [
-           "1、解决存在的已知问题，提升稳定性",
-           "2、优化AI写源功能",
-           "3、解决某些小说网站无法正常加载目录的问题"
+            "1、解决存在的已知问题，提升稳定性",
+            "2、优化AI写源功能",
+            "3、解决某些小说网站无法正常加载目录的问题"
         ]
-      },
-      {
+    },
+    {
         "version": "3.0.0",
         "update_time": 1781925836204,
         "download_url": "https://transfiles.ru/k6125",
         "description": [
-           "1、解决存在的已知问题",
-           "2、小说阅读增加类似于夸克的仿真阅读方式",
-           "3、增加订阅监听通知功能",
-           "4、增加小说朗读功能"
+            "1、解决存在的已知问题",
+            "2、小说阅读增加类似于夸克的仿真阅读方式",
+            "3、增加订阅监听通知功能",
+            "4、增加小说朗读功能"
         ]
-      },
-      {
+    },
+    {
         "version": "2.3.0",
         "update_time": 1780620008912,
         "download_url": "https://transfiles.ru/t0uvz",
         "description": [
-           "1、解决存在的已知问题"
+            "1、解决存在的已知问题"
         ]
-      },
-      {
+    },
+    {
         "version": "2.2.0",
         "update_time": 1780274038710,
         "download_url": "https://transfiles.ru/qmxka",
         "description": [
-           "1、小说、漫画增加沉浸式阅读",
-           "2、小说阅读方式升级为滚动阅读、覆盖阅读",
-           "3、优化已知问题"
+            "1、小说、漫画增加沉浸式阅读",
+            "2、小说阅读方式升级为滚动阅读、覆盖阅读",
+            "3、优化已知问题"
         ]
     },
-     {
+    {
         "version": "2.1.0",
         "update_time": 1778982508925,
         "download_url": "https://transfiles.ru/a7wtp",
         "description": [
-           "1、增加AI写源功能，利用DeepSeek自由写源",
-           "2、增加源分享、导入功能",
-           "3、优化已知问题"
+            "1、增加AI写源功能，利用DeepSeek自由写源",
+            "2、增加源分享、导入功能",
+            "3、优化已知问题"
         ]
     },
-     {
+    {
         "version": "1.5.0",
         "update_time": 1776992571773,
         "download_url": "https://transfiles.ru/4uusk",
         "description": [
-           "1、解决存在的已知问题"
+            "1、解决存在的已知问题"
         ]
     },
     {
